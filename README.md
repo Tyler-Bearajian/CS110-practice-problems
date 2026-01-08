@@ -1,2 +1,2 @@
 # CS110 Practice Problems
-These are my CS110 practice problem assignment I'll be submiting.
+These are my CS110 practice problems assignment I'll be submiting.
